@@ -36,6 +36,6 @@ by a distributed, global community.
 
 #### Business status
 
-Bank Balance: $228
+Bank Balance: $228<br>
 2017 YTD Total Corporate Revenue: $0<br>
 2017 YTD Total Corporate Operating Expenses: $432.76<br>
